@@ -1,0 +1,20 @@
+#field table {
+    border-collapse: collapse;
+    font-size: 150%;
+    font-family: Arial,san-serif;
+    font-weight: bold;
+}
+
+#field table td {
+    background-color: grey;
+    cursor: pointer;
+
+    width: 30px;
+    min-width: 30px;
+    height: 30px;
+    min-height: 30px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid black;
+    text-align: center;
+}
